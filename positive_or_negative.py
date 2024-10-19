@@ -7,4 +7,4 @@ def pos_or_neg(num):
         return "Zero"
 
 num = int(input('Enter the number: '))
-print(pos_or_neg(num))
+# print(pos_or_neg(num))
