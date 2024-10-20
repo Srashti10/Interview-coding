@@ -5,5 +5,5 @@ def num_range(num):
     else:
         return "Number is not in range"
     
-# num = int(input('Enter a number: \n'))
+num = int(input('Enter a number: \n'))
 # print(num_range(num))
