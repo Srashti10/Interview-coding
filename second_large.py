@@ -1,4 +1,4 @@
-# list = [45,78,94,52,82,89]
+list = [45,78,94,52,82,89]
 n = len(list)
 list.sort()
 print(list)
