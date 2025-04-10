@@ -8,3 +8,8 @@ def pos_or_neg(num):
 
 num = int(input('Enter the number: '))
 print(pos_or_neg(num))
+
+
+
+
+
