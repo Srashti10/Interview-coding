@@ -8,3 +8,11 @@ def two_sum(arr,target):
             
 print(two_sum([3,6,7,34,89],10))
 
+
+
+
+
+
+
+
+
