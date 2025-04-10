@@ -4,3 +4,5 @@ def is_palindrome(s):
 print(is_palindrome('radar'))
 print(is_palindrome('hello'))
 print(is_palindrome('Hello'))  # output will be false 
+
+
